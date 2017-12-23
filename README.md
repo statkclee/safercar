@@ -23,3 +23,9 @@
 **자동차상식**
 
 - BOM을 참고하여 부품 체계 파악
+
+**품질**
+- IQS: https://www.autonews.com/assets/pdf/2017-IQS.pdf
+- VDS: http://www.jdpower.com/sites/default/files/2015020%20VDS_Final.pdf
+- US Consumer Report: 
+
